@@ -10,3 +10,5 @@ indigo
 violet
 
 these are all colors
+
+Yes they are
