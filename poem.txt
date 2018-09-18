@@ -11,4 +11,9 @@ violet
 
 these are all colors
 
-Yes they are
+Tall
+Short
+Oak
+Maple
+
+And some of these are trees.
