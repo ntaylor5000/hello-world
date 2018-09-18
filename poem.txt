@@ -1,0 +1,11 @@
+PoemText
+
+red
+orange
+yellow
+green
+blue
+indigo
+violet
+
+these are all colors
